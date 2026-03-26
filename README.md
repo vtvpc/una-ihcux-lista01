@@ -8,4 +8,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `del`: Deleta o arquivo escolhido.
 
 ## 📸 Evidência de Execução
-![Foto do meu terminal](<img width="929" height="540" alt="printterminal" src="https://github.com/user-attachments/assets/c08bfd7a-9427-4432-b576-d6364bbb70e9" />)
+![Foto do meu terminal]( <img width="929" height="540" alt="printterminal" src="https://github.com/user-attachments/assets/139c8b57-3f7c-4aaf-88a5-9964ff1a2414" /> )
